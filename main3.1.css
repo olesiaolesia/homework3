@@ -1,0 +1,21 @@
+
+.underline {
+    text-decoration: underline;
+}
+
+.bgr-color {
+    background-color: green;
+    width: 10%;
+}
+
+.text-index-1 {
+    font-size: 10px;
+}
+
+.text-index-2 {
+    font-size: 5px;
+}
+
+li:last-of-type {
+    font-style: italic;
+}
